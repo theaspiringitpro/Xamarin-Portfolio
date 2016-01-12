@@ -1,0 +1,258 @@
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+F:\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\example.png
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\example.png
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+F:\Project3\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\example.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\example.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\example.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\hamburger.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\example.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\hamburger.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\SQLite.Net.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\SQLite.Net.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\hamburger.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\zexample.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.Droid-Signed.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\SQLite.Net.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\FormsMenu.Droid.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\android\bin\FormsMenu.Droid.apk
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-hdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\zexample.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\res\drawable\hamburger.png
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\R.cs.flag
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 7 (CustomViewCell)\FormsMenu\FormsMenu\FormsMenu.Droid\obj\Debug\uploadflags.txt

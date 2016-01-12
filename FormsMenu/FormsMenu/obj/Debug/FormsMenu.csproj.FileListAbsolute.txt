@@ -1,0 +1,94 @@
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\In-Class Exercises\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+F:\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+F:\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+F:\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+F:\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+F:\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+F:\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
+F:\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+F:\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project3\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Project3\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll.CodeAnalysisLog.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll.lastcodeanalysissucceeded
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Copy\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 4\FormsMenu - Final\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 5\FormsMenu\FormsMenu\FormsMenu\bin\Debug\SQLite.Net.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\bin\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\bin\Debug\SQLite.Net.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.dll
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.pdb
+E:\Users\Jeremiah\OneDrive\Boise State\Fall 2015\ITM370\Project 6\FormsMenu\FormsMenu\FormsMenu\obj\Debug\FormsMenu.csprojResolveAssemblyReference.cache
